@@ -1,6 +1,7 @@
 # Babylon tower - School project
 
 School project for the 2022/23 FLP course at FIT VUT.
+The project is written in SWI Prolog.
 
 The solution uses IDS algorithm to solve the problem of Babylon tower.
 The problem is to find a sequence of moves that will result in a tower with all marbles in the correct order.
